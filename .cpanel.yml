@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - cd /home2/studdeas/express1.studdease.in
+    - php artisan migrate
+
